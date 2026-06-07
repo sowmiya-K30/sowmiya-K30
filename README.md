@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Sowmiya+K+%F0%9F%91%8B;Frontend+Developer+%7C+Java+Full+Stack+Learner;Building+Creative+%26+Responsive+Web+Apps;Open+to+Opportunities+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sowmiya-k&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/sowmiya-k)
+[![Profile Views](https://komarev.com/ghpvc/?username=sowmiya-K30&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/sowmiya-K30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-k-479bba319/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sowmiya.kksn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sowmiya-k)
@@ -83,11 +83,11 @@ public class Sowmiya {
 
 <div align="center">
 
-<a href="https://github.com/sowmiya-k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmiya-k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/sowmiya-K30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmiya-K30&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/sowmiya-k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiya-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/sowmiya-K30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiya-K30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -98,7 +98,7 @@ public class Sowmiya {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sowmiya-k&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sowmiya-K30&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -108,7 +108,7 @@ public class Sowmiya {
 
 <div align="center">
 
-[![Sowmiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmiya-k&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/sowmiya-k)
+[![Sowmiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmiya-K30&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/sowmiya-K30)
 
 </div>
 
@@ -118,7 +118,7 @@ public class Sowmiya {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sowmiya-k&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sowmiya-K30&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -214,7 +214,7 @@ public class Sowmiya {
 
 <div align="center">
 
-*"Code with purpose. Design with passion. Build with heart."* 💙
+*"Code with purpose. Design with passion. Build with heart."
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-k-479bba319/)
 [![Gmail](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowmiya.kksn@gmail.com)
